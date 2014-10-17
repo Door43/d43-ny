@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ny:home|Door43 (ny)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ny|d43-ny repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ny/archive/master.zip|d43-ny.zip]]
+
+**Recent Changes**
+{{changes>ns = ny}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ny|Ethnologue data]]
+
